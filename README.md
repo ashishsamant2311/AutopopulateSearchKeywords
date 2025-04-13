@@ -1,4 +1,4 @@
-# Automated Keyword Extraction for E-Commerce Products 🚀
+# Automated Keyword Extraction for E-Commerce Products
 
 ## Overview
 
